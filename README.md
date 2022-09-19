@@ -60,13 +60,13 @@ Este problema fue solucionado al encontrar un Add on del software llamado getkey
 \code 
 tecla = getkey;
 Una vez, almacenado el valor de la tecla presionada por el usuario, se debe realizar un cast que permita al sistema saber que tarea debe ejecutar, según la tabla.
-| Tecla | operación |
-|W,↑ |mover al frente |
-|S,↓ |mover atras |
-|A,← |girar sentido de las manecillas |
-|D,→ |girar contrario de las manecillas|
-|R|Regresar al origen|
-|espacio| Girar 180°|
+| Tecla | Operación                        |
+|W,↑    | Mover al frente                  |
+|S,↓    | Mover atras                      |
+|A,←    | Girar sentido de las manecillas  |
+|D,→    | Girar contrario de las manecillas|
+|R      | Regresar al origen               |
+|espacio| Girar 180°                       |
 
 
 PONER TABLA CON LA TECLA Y LO Que DEBE HACER

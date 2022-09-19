@@ -119,3 +119,5 @@ El proceso es simulado, siguiendo el procedimiento explicado en la sección de C
 - Se observó la falta de desarrollo de aplicaciones en ROS utilizando el programa MATLAB, lo que dificulta encontrar guías base para realizar este tipo de ejercicios didácticos de aprendizaje.
 
 - Se encuentra un correcto funcionamiento del programa desarrollado en MATLAB para mover la tortuga en base a las especificaciones requeridas por el laboratorio.
+
+- Es importante saber hacer uso de los dos mecanismos de comunicación con que cuenta ROS tanto de los Topics, a traves de sus publishers y sus subscribers, como de los Services, mediante la comunicacion solucitud-respuesta entre el service client y el service server.

@@ -1,4 +1,4 @@
-# Laboratorio-2- Robótica de Desarrollo, Intro a ROS
+# Laboratorio-2- Robótica de Desarrollo, Intro a ROS :robot:
  
 Segundo laboratorio de la asignatura Robótica de la Universidad Nacional de Colombia en su sede Bogotá.
  

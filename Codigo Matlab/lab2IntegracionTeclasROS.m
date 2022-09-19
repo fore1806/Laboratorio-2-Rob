@@ -1,4 +1,10 @@
+%%%%%%%%%%%%%%%%AUTORES%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+% |              Nombre              |                    GitHub nickname                      |
+% | Nikolai Alexnder Caceres Penagos |          [nacaceresp](https://github.com/nacaceresp)    |
+% |    Andrés Felipe Forero Salas    |[fore1806](https://github.com/fore1806)                  |
+% |  Iván Mauricio Hernández Triana  |[elestrategaactual](https://github.com/elestrategaactual)|
 %%
+
 rosshutdown;
 rosinit; %Conexi ́on con nodo maestro
 %%

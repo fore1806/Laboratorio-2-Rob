@@ -108,7 +108,8 @@ El código que realiza la verificación de la tecla pulsada y que realiza el env
 
 El proceso es simulado, siguiendo el procedimiento explicado en la sección de Configuración Inicial, como se evidencia en el video mostrado a continuación.
 
-PONER VIDEOOOOOOOOOOOOOO
+[![Alt text](https://github.com/fore1806/Laboratorio-2-Rob/blob/main/imagenes/videolab2.png)](https://www.youtube.com/watch?v=XTEBdVZ-wiE)
+
 
 ## Conclusiones
 

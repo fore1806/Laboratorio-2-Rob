@@ -2,7 +2,7 @@
  
 Segundo laboratorio de la asignatura Robótica de la Universidad Nacional de Colombia en su sede Bogotá.
  
-## Autores
+## Autores :busts_in_silhouette:
  
 |              Nombre              |GitHub nickname|
 |----------------------------------|---------------|

@@ -63,6 +63,7 @@ Una vez, almacenado el valor de la tecla presionada por el usuario, se debe real
 
 
 | Tecla | Operación                        |
+| -- | -- |
 |W,↑    | Mover al frente                  |
 |S,↓    | Mover atras                      |
 |A,←    | Girar sentido de las manecillas  |

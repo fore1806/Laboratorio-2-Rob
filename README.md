@@ -61,8 +61,9 @@ Este problema fue solucionado al encontrar un Add on del software llamado getkey
 
 ```Matlab
 tecla = getkey;
-Una vez, almacenado el valor de la tecla presionada por el usuario, se debe realizar un cast que permita al sistema saber que tarea debe ejecutar, según la tabla.
 ```
+Una vez, almacenado el valor de la tecla presionada por el usuario, se debe realizar un cast que permita al sistema saber que tarea debe ejecutar, según la tabla.
+
 
 | Tecla | Operación                        |
 | -- | -- |
